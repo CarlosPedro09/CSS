@@ -108,3 +108,29 @@ section h2 {
 #economy .articles article a {
     background-color: #ff9f1a;
 }
+
+#tecnologia {
+    background-color:#2DCDDF;
+}
+
+#tecnologia .artigos article a {
+    background-color: #3C79F5;
+}
+
+img {
+    width: 300px;
+    height: 180px;
+}
+
+#entretenimento {
+    background-color: #DD58D6;
+}
+
+#entretenimento .artigos article a {
+    background-color: #40128B;
+}
+
+img {
+    width: 300px;
+    height: 180px;
+}
